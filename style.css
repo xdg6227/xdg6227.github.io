@@ -8,8 +8,3 @@ body {
   text-align: center;
   padding: 130px;
 }
-
-h1, h2 {
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-}
