@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+    
+body {
+  --default-color: #23272a;
+  --background-image: url('https://cdn.discordapp.com/attachments/813268474385793026/829724577366147122/2021-04-02_16.54.35.png');  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  padding: 130px;
+}
