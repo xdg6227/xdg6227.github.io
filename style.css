@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
     
-body {
+.header {
   background-color: #23272a;
   background-image: url('background.png');
   color: white;
