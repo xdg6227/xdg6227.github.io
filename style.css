@@ -2,7 +2,7 @@
 
 body {
   background-color: #2c2f33;
-  overflow-x: scroll;
+  overflow-x: hidden;
   background-image: url('background.png');
 }
 
